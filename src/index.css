@@ -1,8 +1,1 @@
-@import "tailwindcss";
-body {
-  padding: 0;
-  margin: 0;
-}
-html {
-  scroll-behavior: smooth;
-}
+/* No global styles needed - all styles in pages/styles.css */
