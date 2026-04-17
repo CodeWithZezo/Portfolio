@@ -40,7 +40,7 @@ function AboutText() {
         queries for multi-tenancy.
       </p>
       <p>
-        Currently pursuing <strong>B.Sc. Software Engineering</strong> (CGPA 3.4/4.0) while building systems at the level
+        Currently pursuing <strong>B.Sc. Software Engineering</strong> at Arid Agriculture University (CGPA 3.45/4.0) while building systems at the level
         most engineers reach after years on the job.
       </p>
     </div>

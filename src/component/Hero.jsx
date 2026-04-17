@@ -3,7 +3,7 @@ import { useTypingEffect } from "../hooks/index.js";
 import { HERO_STATS } from "../data/index.js";
 
 export default function Hero() {
-  const typedText = useTypingEffect("Backend Engineer", 80);
+  const typedText = useTypingEffect("Backend Engineer Intern Candidate", 80);
 
   return (
     <section className="hero">
@@ -34,14 +34,14 @@ export default function Hero() {
               {[
                 "Node.js",
                 "TypeScript",
+                "Express.js",
                 "PostgreSQL",
+                "MongoDB",
                 "Redis",
                 "RabbitMQ",
                 "Docker",
-                "Kubernetes",
                 "AWS",
                 "Socket.IO",
-                "TimescaleDB",
               ].map((s) => (
                 <span key={s} className="pill">
                   {s}
@@ -60,7 +60,7 @@ export default function Hero() {
               </div>
               <div className="meta-item">
                 <div className="meta-dot" style={{ background: "#79b8ff" }} />
-                <span className="meta-text">CGPA 3.4 / 4.0</span>
+                <span className="meta-text">CGPA 3.45 / 4.0</span>
               </div>
               <div className="meta-item">
                 <div className="meta-dot" style={{ background: "#bc8cff" }} />
@@ -116,7 +116,7 @@ export default function Hero() {
             GitHub ↗
           </a>
           <a
-            href="https://linkedin.com/in/zeeshan-saleem-2a7000379"
+            href="https://linkedin.com/in/zeeshan-shami-2a7000379"
             target="_blank"
             rel="noopener noreferrer"
             className="cta-ghost"

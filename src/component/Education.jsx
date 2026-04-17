@@ -7,17 +7,17 @@ export default function Education() {
         <SectionHeader eyebrow="$ cat ./education.json" title="Education" />
         <div className="edu-card fade-in">
           <div className="edu-watermark">BSSE</div>
-          <div className="edu-badge">● Currently Enrolled · 2024 – Present</div>
-          <h3 className="edu-degree">Bachelor of Science — Software Engineering</h3>
-          <p className="edu-school">University of Faisalabad, Pakistan</p>
+          <div className="edu-badge">● Currently Enrolled · 2024 – 2028</div>
+          <h3 className="edu-degree">Bachelor of Software Engineering</h3>
+          <p className="edu-school">Arid Agriculture University, Faisalabad, Pakistan</p>
           <div className="edu-meta">
             <div className="edu-meta-item">
               <span className="acc">★</span>
-              <span>CGPA: 3.4 / 4.0</span>
+              <span>CGPA: 3.45 / 4.0</span>
             </div>
             <div className="edu-meta-item">
               <span className="acc">⌚</span>
-              <span>2024 – Present</span>
+              <span>2024 – 2028</span>
             </div>
             <div className="edu-meta-item">
               <span className="acc">◎</span>
@@ -25,9 +25,10 @@ export default function Education() {
             </div>
           </div>
           <div className="edu-note">
-            <strong>Self-driven:</strong> Building production-grade distributed systems — Clerk Auth System and
-            Real-Time Analytics Engine — while maintaining a 3.4 CGPA. The majority of what I know came from building
-            real systems with real constraints, not just coursework.
+            <strong>Self-driven:</strong> Building production-grade systems — a Clerk-inspired User Management System
+            and a Real-Time Analytics Engine — while maintaining a 3.45 CGPA. Relevant coursework: Data Structures,
+            Algorithms, Database Systems, Software Architecture. The majority of what I know came from building real
+            systems with real constraints, not just coursework.
           </div>
         </div>
       </div>

@@ -64,11 +64,11 @@ function ContactInfo() {
               <div className="social-link-handle">@codewithzezo</div>
             </div>
           </a>
-          <a href="https://linkedin.com/in/zeeshan-saleem-2a7000379" target="_blank" rel="noopener noreferrer" className="social-link">
+          <a href="https://linkedin.com/in/zeeshan-shami-2a7000379" target="_blank" rel="noopener noreferrer" className="social-link">
             <LinkedInIcon size={18} />
             <div>
               <div className="social-link-name">LinkedIn</div>
-              <div className="social-link-handle">zeeshan-saleem-2a7000379</div>
+              <div className="social-link-handle">zeeshan-shami-2a7000379</div>
             </div>
           </a>
         </div>
