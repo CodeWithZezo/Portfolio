@@ -56,7 +56,7 @@ export default function Hero() {
               </div>
               <div className="meta-item">
                 <div className="meta-dot" style={{ background: "#e3b341" }} />
-                <span className="meta-text">Faisalabad, Pakistan</span>
+                <span className="meta-text">Lahore, Pakistan</span>
               </div>
               <div className="meta-item">
                 <div className="meta-dot" style={{ background: "#79b8ff" }} />
